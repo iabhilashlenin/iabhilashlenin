@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Abhilash Lenin Kachhap and I'm a Software Engineer  from Ranchi India</h2>
+<h2 align="left">Hi 👋! My name is Abhilash Lenin Kachhap and I'm a Software Engineer 🧑‍💻  from Ranchi India 🇮🇳 </h2>
 
 ###
 
